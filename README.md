@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am an AI/ML Engineer in Training with hands-on experience in Python, Data Science, and Machine Learning.<br>I have worked on multiple projects, and I enjoy working with data, model building, computer vision, NLP, and deployment
+AI Engineer with hands-on experience building end-to-end intelligent systems using machine learning, deep learning, and Generative AI technologies. Skilled in developing scalable applications with LangChain, Retrieval-Augmented Generation (RAG), and AI agents, combined with strong foundations in data science and predictive modeling using Scikit-learn.
+
+Proficient in the complete ML lifecycle including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and deployment. Experienced in working with NLP, computer vision (CNNs), and LLM-based systems to solve real-world problems.
+
+Strong in full-stack development, building interactive applications using Streamlit, Flask, and modern web technologies, with deployment experience on platforms like Vercel and Render. Passionate about creating efficient, scalable, and user-focused AI solutions with clean architecture and practical impact.
+
+Your data + my skills = intelligent, reliable, and deployable AI solutions.
 
 
 # 💻 Tech Stack:
